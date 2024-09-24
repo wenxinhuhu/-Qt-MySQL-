@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/背景图(1).jpg</file>
+        <file>picture/背景图(2).jpg</file>
+        <file>picture/透明图.png</file>
+        <file>picture/图标.jpg</file>
+        <file>picture/暖黄色背景(1).jpg</file>
+        <file>picture/图标方.jpg</file>
+    </qresource>
+</RCC>
